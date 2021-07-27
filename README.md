@@ -1,2 +1,2 @@
-# CarPlatooning
+# Car Platooning
 Undergraduate Thesis 
